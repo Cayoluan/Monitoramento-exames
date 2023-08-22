@@ -2,8 +2,8 @@
 
 Monitora os seguintes exames:
   - Glicemia
-    - Colesterol
-      - Triglicerídeos
+  - Colesterol
+  - Triglicerídeos
     
 Trabalho para a faculdade da matéria "Programação II"
 
